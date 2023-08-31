@@ -1,0 +1,27 @@
+h2{
+    position: absolute;
+    left: 500px;
+    top: 200px;
+}
+
+h3{
+    position: absolute;
+    left: 500px;
+    top: 300px;
+}
+
+h5{
+    position: absolute;
+    left: 500px;
+    top: 450px;
+}
+
+#bill{
+    position: absolute;
+    width: 1000px;
+    opacity: 25%;
+    left: 450px;
+    top: 70px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
